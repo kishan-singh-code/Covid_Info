@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cec42225.css",
+    "main.js": "/static/js/main.b5a93273.js",
+    "static/js/787.1a3ee2cb.chunk.js": "/static/js/787.1a3ee2cb.chunk.js",
+    "static/media/22.png": "/static/media/22.3a82cdb24d08971e0800.png",
+    "static/media/3.png": "/static/media/3.b51e3d24e5f78ef69a17.png",
+    "static/media/5.png": "/static/media/5.270332d41c5a3cb82990.png",
+    "static/media/work.svg": "/static/media/work.251269275de5cc267fe083b7e55a2f42.svg",
+    "static/media/44.png": "/static/media/44.b7faaba07f7d47416e61.png",
+    "static/media/game_img.png": "/static/media/game_img.eec2b8e47807da96747a.png",
+    "static/media/bhb.gif": "/static/media/bhb.079bfbf0a921388ecb7e.gif",
+    "static/media/banner-img-01.svg": "/static/media/banner-img-01.74b9ed3267659d02995609a9710923de.svg",
+    "static/media/world.png": "/static/media/world.36d5783e33133ef6c99d.png",
+    "static/media/covid_1.svg": "/static/media/covid_1.836601bed4478ad09ba3b436f0cf9e33.svg",
+    "static/media/vacc2.svg": "/static/media/vacc2.a4a273c513c8063a5944f177fe7b91a0.svg",
+    "static/media/cases.svg": "/static/media/cases.250df768d59377b8b33301244efb2a16.svg",
+    "index.html": "/index.html",
+    "static/media/recovered.svg": "/static/media/recovered.76ca3b84597d850b45f9766b0eff1c17.svg",
+    "static/media/deaths.svg": "/static/media/deaths.a49adbeaca02ae3db5d111da665d32c7.svg",
+    "main.cec42225.css.map": "/static/css/main.cec42225.css.map",
+    "main.b5a93273.js.map": "/static/js/main.b5a93273.js.map",
+    "787.1a3ee2cb.chunk.js.map": "/static/js/787.1a3ee2cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cec42225.css",
+    "static/js/main.b5a93273.js"
+  ]
+}
